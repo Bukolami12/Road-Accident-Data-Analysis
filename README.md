@@ -137,8 +137,8 @@ The analysis highlights a positive reduction in road accident casualties from 20
   ### Fatal Severity
   •	 Total Fatal Cases: 7,135 (1.7% of total cases).
   
-  •	Observation: Fatal accidents represent a small percentage of total accidents, indicating that while fatalities are rare, they are 
-    critical for targeted safety interventions.
+  •	Observation: Fatal accidents represent a small percentage of total accidents, indicating that while fatalities are rare, they 
+    are critical for targeted safety interventions.
 
   •	Inference: Efforts should focus on understanding the conditions leading to fatalities (e.g., high-speed zones, lack of protective 
     barriers).
@@ -148,31 +148,33 @@ The analysis highlights a positive reduction in road accident casualties from 20
 
 •	Observation: Serious accidents make up a significant portion of cases, indicating a notable risk of severe injuries during accidents.
 
-•	Inference: These cases may require deeper analysis of factors like:
+•       Inference: These cases may require deeper analysis of factors like:
 
--	Road conditions: Poor maintenance or lighting.
+ -    Road conditions: Poor maintenance or lighting.
+
+ -   Vehicle involvement: Heavy vehicles like buses or trucks.
   
--	Vehicle involvement: Heavy vehicles like buses or trucks.
-  
-- Driver behavior: Speeding or distracted driving.
+ -   Driver behavior: Speeding or distracted driving.
 
   ### Slight Severity
-•	Total Slight Cases: 351,436 (84.1% of total cases).
+•   Total Slight Cases: 351,436 (84.1% of total cases).
 
-•	Observation: Most accidents result in slight injuries, likely involving minor collisions or accidents at lower speeds.
+•   Observation: Most accidents result in slight injuries, likely involving minor collisions or accidents at lower speeds.
 
-•	Inference: This suggests that while accidents are frequent, the majority are less severe. Emphasis on driver training and minor road improvements (e.g., better signage, traffic calming measures) could reduce these incidents.
+•   Inference: This suggests that while accidents are frequent, the majority are less severe. Emphasis on driver training and minor road 
+    improvements (e.g., better signage, traffic calming measures) could reduce these incidents.
 
-Overall Inference
-•	The vast majority of accidents (98.3%) do not result in fatalities, with slight injuries being the most common outcome.
+ #### Overall Inference
+•  The vast majority of accidents (98.3%) do not result in fatalities, with slight injuries being the most common outcome.
 
-•	Fatal and serious accidents together account for around 15.9% of cases, highlighting areas where critical attention is needed to save lives and prevent serious injuries.
+•  Fatal and serious accidents together account for around 15.9% of cases, highlighting areas where critical attention is needed to save 
+   lives and prevent serious injuries.
 
 ### Recommendations
 1. 	#### Focus on Fatalities and Serious Injuries:
 	• Investigate blackspots or high-risk areas with recurring fatal/serious accidents.
 
- •	Implement policies for stricter speed enforcement and seatbelt/helmet usage.
+   • Implement policies for stricter speed enforcement and seatbelt/helmet usage.
  
 2. #### Reduce Slight Injuries:
  •	Focus on accident-prone intersections with minor collisions.
