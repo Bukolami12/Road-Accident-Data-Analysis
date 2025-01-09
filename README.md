@@ -133,39 +133,116 @@ The analysis highlights a positive reduction in road accident casualties from 20
    ![Accident Severity](https://github.com/user-attachments/assets/6b056354-8785-4c08-a16e-fff243e22aef)
 
 ## Inference
-The analysis categorizes accidents based on severity levels: Fatal, Serious, and Slight. Here are the inferences from the shared data:
 
-1. Fatal Severity
-•	Total Fatal Cases: 7,135 (1.7% of total cases).
-•	Observation: Fatal accidents represent a small percentage of total accidents, indicating that while fatalities are rare, they are critical for targeted safety interventions.
-•	Inference: Efforts should focus on understanding the conditions leading to fatalities (e.g., high-speed zones, lack of protective barriers).
-2. Serious Severity
+  ### Fatal Severity
+  •	 Total Fatal Cases: 7,135 (1.7% of total cases).
+  
+  •	Observation: Fatal accidents represent a small percentage of total accidents, indicating that while fatalities are rare, they are 
+    critical for targeted safety interventions.
+
+  •	Inference: Efforts should focus on understanding the conditions leading to fatalities (e.g., high-speed zones, lack of protective 
+    barriers).
+  
+  ### Serious Severity
 •	Total Serious Cases: 59,312 (14.2% of total cases).
-•	Observation: Serious accidents make up a significant portion of cases, indicating a notable risk of severe injuries during accidents.
-•	Inference: These cases may require deeper analysis of factors like:
-o	Road conditions: Poor maintenance or lighting.
-o	Vehicle involvement: Heavy vehicles like buses or trucks.
-o	Driver behavior: Speeding or distracted driving.
 
-3. Slight Severity
+•	Observation: Serious accidents make up a significant portion of cases, indicating a notable risk of severe injuries during accidents.
+
+•	Inference: These cases may require deeper analysis of factors like:
+
+-	Road conditions: Poor maintenance or lighting.
+  
+-	Vehicle involvement: Heavy vehicles like buses or trucks.
+  
+- Driver behavior: Speeding or distracted driving.
+
+  ### Slight Severity
 •	Total Slight Cases: 351,436 (84.1% of total cases).
+
 •	Observation: Most accidents result in slight injuries, likely involving minor collisions or accidents at lower speeds.
+
 •	Inference: This suggests that while accidents are frequent, the majority are less severe. Emphasis on driver training and minor road improvements (e.g., better signage, traffic calming measures) could reduce these incidents.
 
 Overall Inference
 •	The vast majority of accidents (98.3%) do not result in fatalities, with slight injuries being the most common outcome.
+
 •	Fatal and serious accidents together account for around 15.9% of cases, highlighting areas where critical attention is needed to save lives and prevent serious injuries.
 
-Recommendations
-1.	Focus on Fatalities and Serious Injuries:
-o	Investigate blackspots or high-risk areas with recurring fatal/serious accidents.
-o	Implement policies for stricter speed enforcement and seatbelt/helmet usage.
-2.	Reduce Slight Injuries:
-o	Focus on accident-prone intersections with minor collisions.
-o	Install low-cost solutions like rumble strips and improved signage.
+### Recommendations
+1. 	#### Focus on Fatalities and Serious Injuries:
+	• Investigate blackspots or high-risk areas with recurring fatal/serious accidents.
 
+ •	Implement policies for stricter speed enforcement and seatbelt/helmet usage.
+ 
+2. #### Reduce Slight Injuries:
+ •	Focus on accident-prone intersections with minor collisions.
+ 
+ •	Install low-cost solutions like rumble strips and improved signage.
 
+### Conclusion 
+The analysis of accident severity reveals distinct trends in casualty outcome in which Fatal accidents constitute only 1.7% of all incidents, suggesting that while fatalities are a small percentage, they remain a critical area for targeted safety measures while serious accidents account for 14.2% of cases, highlighting the need for improved response mechanisms, such as quicker emergency services and better medical facilities in accident-prone areas.While majority of cases, 84.1%, are slight accidents, indicating that while the impact is less severe, they still pose risks and may result in indirect economic and social consequences.
+This breakdown underscores the importance of tailored interventions. Preventative measures must focus on reducing all types of accidents, with particular attention to minimizing fatalities and serious injuries through improved road safety policies, driver training programs, and infrastructure upgrades.
 
+3. # Casualties By Vehicle Type 
+
+ ## Filtered Chart Of Vehicle Type and Number Of Casualties 
+ ![casualties ](https://github.com/user-attachments/assets/0c5aeb2e-17cb-44b9-a712-17a82ee0f467)
+
+ ## Inference 
+ #### Cars:
+  	•	Casualties = 333,485 (79.8% of total casualties).
+   •	Observation: Cars contribute the largest share of casualties, highlighting their prevalence in road accidents.
+   •		Inference: The high number could be attributed to the large number of cars on the road, driver behavior, and possibly lack of 
+      adherence to traffic rules.
+ ####  Bikes:
+   •	Casualties = 33,672 (8.1% of total casualties).
+   • Observation: Bikes account for a significant portion, despite fewer bikes compared to cars.
+   •	Inference: Vulnerability due to less protection for riders and increased risk of severe injury.
+#### Vans:
+  •		Casualties = 33,472 (8.0% of total casualties).
+  
+  • 	Observation: Vans have a similar casualty count as bikes, indicating their involvement in frequent accidents.
+  
+  •	 Inference: May be linked to delivery or commercial operations, often involving long hours or urban congestion.
+#### 	Bus:
+  •	Casualties = 12,798 (3.1% of total casualties).
+  
+  •		Observation: A lower number of casualties compared to other vehicles, possibly due to professional drivers and regulated operations.
+  
+  •	Inference: Buses are involved in fewer incidents but may pose risks in densely populated areas.
+#### 	Agricultural Vehicles:
+  •		Casualties = 1,032 (0.2% of total casualties).
+  
+  •		Observation: Minimal involvement in accidents, likely due to lower usage on public roads.
+  
+  •Inference: Their involvement may be limited to rural or farming areas.
+#### Others:
+•	Casualties = 3,424 (0.8% of total casualties).
+
+• Observation: Represents less common vehicle types or unspecified incidents.
+
+### Recommendations
+- ##### 	For Cars:
+ •	Enforce Speed Limits: Implement strict speed control measures in urban and high-risk areas.
+
+ •	Promote Driver Education: Raise awareness about safe driving practices, especially among car drivers.
+
+ •	Technology Integration: Encourage the adoption of advanced driver-assistance systems (ADAS).
+
+- #### 	For Bikes:
+ •	Safety Gear Enforcement: Mandate helmets and protective gear for all riders.
+ 
+ •	Dedicated Lanes: Develop more bike lanes to separate them from larger vehicles.
+ 
+ •	Awareness Campaigns: Educate riders and other road users about sharing roads safely.
+- #### 	For Vans and Commercial Vehicles:
+ •	Regulate Driving Hours: Reduce fatigue by enforcing rest periods for commercial drivers.
+ 
+ •	Training Programs: Introduce regular driver training for van operators.
+- #### 	For Buses:
+•	Urban Area Regulation: Implement speed and route restrictions in densely populated zones.
+
+•	Maintenance Checks: Regularly inspect buses for safety and mechanical fitness.
 
 
 
