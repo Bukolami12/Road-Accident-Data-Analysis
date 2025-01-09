@@ -1,6 +1,19 @@
 
 # Road Accident Data Analysis
 
+
+[Project Overview](#project-overview)
+
+[Data Collected](#data-collected)
+
+[Project Objective](#project-objective)
+
+[Key Metrics](#key-metrics)
+
+[Tool Used](#tool-used)
+
+[Visual Analysis and Inference](#visual-analysis-and-inference)
+
 ## Project Overview
 The project aims to analyze road accident data to identify trends, geographic patterns, and insights into accident severity, frequency, and contributing factors. This analysis can help inform policies or interventions to improve road safety.
 
@@ -339,6 +352,23 @@ For Rural Areas:
   
   •  Emergency Response:Establish quick-response medical units in rural areas and provide local residents with basic first-aid training.
 
+
+![Road accident Dashboard](https://github.com/user-attachments/assets/c38c468b-ca58-4dc1-8ded-95415483c6f3)
+### Road Accident Analysis Dashboard
+The dashboard provides insights into road accident data collected for the years 2021 and 2022. Key highlights include:
+
+- **Total Casualties**: 417,883
+- **Fatalities**: 7,135 (1.7%)
+- **Serious Casualties**: 59,312 (14.2%)
+- **Slight Casualties**: 351,436 (84.1%)
+
+#### **Key Insights**
+1. **Casualties by Road Type**:
+   - Single carriageways account for the majority of accidents (309.7K casualties).
+2. **Light Conditions**:
+   - 72.9% of accidents occur during daylight.
+3. **Geographical Pattern**:
+   - Urban areas account for 61% of total casualties.
 
 
 
